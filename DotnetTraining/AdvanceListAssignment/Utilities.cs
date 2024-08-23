@@ -9,4 +9,6 @@ public class Utilities
     
     //q3
     private int c = 3;
+
+    private string name = "cai nay tu nhanh moi cua Kim Trong";
 }
