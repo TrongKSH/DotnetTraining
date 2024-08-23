@@ -10,5 +10,5 @@ public class Utilities
     //q3
     private int c = 3;
 
-    private string name = "cai nay tu nhanh moi cua Truong nhung bi du cai nay";
+    private string name = "cai nay tu nhanh moi cua Truong";
 }
