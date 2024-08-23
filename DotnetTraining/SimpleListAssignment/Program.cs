@@ -50,7 +50,7 @@ namespace ListAssignment
             // Task 7: Practical example
             double average = CalculateAverage(grades);
             Console.WriteLine("Average grade: " + average);
-            
+
             static double CalculateAverage(List<int> grades)
             {
                 if (grades.Count == 0)
@@ -61,7 +61,9 @@ namespace ListAssignment
                 {
                     sum += grade;
                 }
+
                 return (double)sum / grades.Count;
             }
         }
     }
+}
